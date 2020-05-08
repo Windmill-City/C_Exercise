@@ -45,7 +45,7 @@ double ssin(double t) {
 
 int main()
 {
-	printf("%.5f", ssin(0));
+	printf("%.5f", ssin(280));
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
