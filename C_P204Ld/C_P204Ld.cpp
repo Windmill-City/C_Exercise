@@ -155,8 +155,10 @@ int main()
                 sorted = false;
             last = map[_row][column];
         }
-        if (sorted)
+        if (sorted) {
             printf("You Win, you have move %d times.\n", move);
+            system("pause");
+        }
     }
     if(sorted)
         goto Start;
