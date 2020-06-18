@@ -99,6 +99,7 @@ ReInputItemNum:
 using namespace std;
 int main()
 {
+    system("title C_Exercise");
     std::string inPath = "./*.exe";
     std::smatch matchResult;
     long handle;
