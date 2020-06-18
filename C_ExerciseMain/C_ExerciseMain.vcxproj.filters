@@ -15,16 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C_P291h.cpp">
+    <ClCompile Include="C_ExerciseMain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="dest.txt">
-      <Filter>资源文件</Filter>
-    </Text>
-    <Text Include="source.txt">
-      <Filter>资源文件</Filter>
-    </Text>
   </ItemGroup>
 </Project>

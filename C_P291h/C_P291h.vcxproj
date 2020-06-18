@@ -149,6 +149,10 @@
   <ItemGroup>
     <ClCompile Include="C_P291h.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="dest.txt" />
+    <Text Include="source.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

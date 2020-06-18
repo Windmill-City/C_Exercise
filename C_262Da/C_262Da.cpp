@@ -24,6 +24,7 @@ void xputs(char* buf) {
 int main()
 {
     char dd[256];
+	printf("Input something");
     xgets(dd);
 	xputs(dd);
 }

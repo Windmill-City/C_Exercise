@@ -10,6 +10,7 @@ int getint() {
 
 int main()
 {
+    printf("Input a number");
     int a;
     a = getint();
     printf("you entered %d", a);
