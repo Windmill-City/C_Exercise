@@ -163,6 +163,146 @@
     <Image Include="C_Exercise.ico" />
     <Image Include="small.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\C_130Jg\C_130Jg.vcxproj">
+      <Project>{fa227d72-c4d3-4f59-a02a-2ce2e4b9f67f}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_130Jh\C_130Jh.vcxproj">
+      <Project>{c9bfa643-1ab2-42f3-a033-3d6334e109be}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_262Da\C_262Da.vcxproj">
+      <Project>{ac7f0c4d-f1b7-4660-954f-bbf67179e2f1}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P126Da\C_P126Da.vcxproj">
+      <Project>{5d1c9ac2-40c1-4f34-81b1-f655dbea27cc}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P126Dc\C_P126Dc.vcxproj">
+      <Project>{19d0147d-6b23-4655-9155-04d8752fc7ac}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P126De\C_P126De.vcxproj">
+      <Project>{37d3b140-d128-43c3-9491-c6841cdb00e7}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P127Fb\C_P127Fb.vcxproj">
+      <Project>{e977154b-e40c-418b-ab32-68546704cd90}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P130Ja\C_P130Ja.vcxproj">
+      <Project>{692803bb-78f2-4c3e-a53c-33ca177d4c05}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P130Jb\C_P130Jb.vcxproj">
+      <Project>{7df9e10c-2020-4c49-b5c9-bf565faf4196}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P130Jc\C_P130Jc.vcxproj">
+      <Project>{02ddd900-3f7f-4e6b-a4d3-7fee701fb3df}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P130Jd\C_P130Jd.vcxproj">
+      <Project>{b6394070-ca55-4a9c-a54e-3d2dff0ad8ba}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P130Je\C_P130Je.vcxproj">
+      <Project>{9871a97f-03df-4a33-a683-49c015707fa3}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P130Jf\C_P130Jf.vcxproj">
+      <Project>{e3624415-6b8b-44d2-a9eb-9ae3f42c76cf}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P131k\C_P131k.vcxproj">
+      <Project>{c0ce7529-a986-4149-b4e1-8ac22c4a33e0}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P197Da\C_P197Da.vcxproj">
+      <Project>{9cd14ae4-8efa-4e02-9af5-6d85317443b9}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P197Db\C_P197Db.vcxproj">
+      <Project>{28238825-053f-4f49-905b-149ad2402591}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P197Dc\C_P197Dc.vcxproj">
+      <Project>{72e48ff3-7f2c-4ac0-b1ca-17a6873b8cf9}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P197Dd\C_P197Dd.vcxproj">
+      <Project>{23413bcb-6059-4309-9b17-257f9005cdab}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P197De\C_P197De.vcxproj">
+      <Project>{663e001e-6259-4e39-89de-5fead035d732}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P204Lb\C_P204Lb.vcxproj">
+      <Project>{6c25fb04-8910-4e7f-b927-223dbfc44fb1}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P204Lc\C_P204Lc.vcxproj">
+      <Project>{0ae70ec5-c538-408e-b957-076107e3b441}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P204Ld\C_P204Ld.vcxproj">
+      <Project>{3ad62938-7377-41fd-8ee8-457b97382445}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P229Dc\C_P229Dc.vcxproj">
+      <Project>{c9d29b45-2be0-48ce-8bee-5200182935fb}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P229Dd\C_P229Dd.vcxproj">
+      <Project>{d93015a0-aa56-4623-831d-cd414898f7bc}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P229Fd\C_P229Fd.vcxproj">
+      <Project>{4862f8dc-7bcd-453b-a1f9-198b1ccddc2d}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P229Fh\C_P229Fh.vcxproj">
+      <Project>{0b783b17-5be1-41b6-8ce1-049ce044c488}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P229Fi\C_P229Fi.vcxproj">
+      <Project>{2e9e72b8-378e-4649-9a05-5a2c182ec7ed}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P248f\C_P248f.vcxproj">
+      <Project>{4c5ca301-3313-4861-8ef4-593f30d39996}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P248g\C_P248g.vcxproj">
+      <Project>{71eaa78a-225b-4f3d-96be-d25d58da70e4}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P248h\C_P248h.vcxproj">
+      <Project>{0d1896b8-8f74-425c-9cd6-62642e377c71}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P262Db\C_P262Db.vcxproj">
+      <Project>{53d41b8c-3d5a-4ee7-b34f-14c010b44afe}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P291Cg\C_P291Cg.vcxproj">
+      <Project>{83f206ca-1896-4e62-b5eb-f33d20c4c5f3}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P291h\C_P291h.vcxproj">
+      <Project>{5bc43880-cd67-487a-833b-eb55570cb007}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P56b\C_P56b.vcxproj">
+      <Project>{9f3333d4-aff4-471b-9174-9796eade7f61}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P56c\C_P56c.vcxproj">
+      <Project>{0e9ee999-0bdb-4a9f-b0b6-e99d2d097b6c}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P56d\C_P56d.vcxproj">
+      <Project>{6af1e428-d30b-40a5-9526-e6ca2b797d6a}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P79d\C_P79d.vcxproj">
+      <Project>{1ff85546-e78c-4613-b65b-d1fd64e984f5}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P79e\C_P79e.vcxproj">
+      <Project>{1ce0c996-6e2e-4bf8-a015-ab68fca257f9}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P79f\C_P79f.vcxproj">
+      <Project>{f8bca332-d02c-41fa-9a52-c86813ae3489}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P79h\C_P79h.vcxproj">
+      <Project>{588c5747-a299-4025-907d-9d72bdd68005}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P82c\C_P82c.vcxproj">
+      <Project>{2b851555-d6e2-4ce6-8e03-cce4fb01945b}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P82d\C_P82d.vcxproj">
+      <Project>{1d5d5b71-ba71-445c-9b0b-e4301a1b310f}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P82e\C_P82e.vcxproj">
+      <Project>{f40f5982-d87e-4232-899c-5ce0dfe98dc9}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P82f\C_P82f.vcxproj">
+      <Project>{681289a5-89b1-45b7-999d-b862871988f4}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P96C\C_P96C.vcxproj">
+      <Project>{63e5f50e-6f4f-4dde-bab6-25509ab24aaa}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\C_P96D\C_P96D.vcxproj">
+      <Project>{6bf4e862-9367-4723-afa7-1a63ff83d726}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
